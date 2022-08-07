@@ -4,5 +4,7 @@ public class Main {
         System.out.println("hassam");
         System.out.println("hassam malik");
         System.out.println("hassam AHMED");
+        System.out.println("malik");
+        System.out.println("AHMED");
     }
 }
